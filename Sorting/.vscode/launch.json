@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CyclicSort",
+            "request": "launch",
+            "mainClass": "CyclicSort",
+            "projectName": "Sorting_44152827"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubble",
+            "request": "launch",
+            "mainClass": "Bubble",
+            "projectName": "Sorting_44152827"
+        },
+        {
+            "type": "java",
+            "name": "Launch Insertion",
+            "request": "launch",
+            "mainClass": "Insertion",
+            "projectName": "Sorting_44152827"
+        },
+        {
+            "type": "java",
+            "name": "Launch Selection",
+            "request": "launch",
+            "mainClass": "Selection",
+            "projectName": "Sorting_44152827"
+        },
+        {
+            "type": "java",
+            "name": "Launch cyclic",
+            "request": "launch",
+            "mainClass": "cyclic",
+            "projectName": "Sorting_44152827"
+        }
+    ]
+}

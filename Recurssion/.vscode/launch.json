@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ZeroCount",
+            "request": "launch",
+            "mainClass": "ZeroCount",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofDigit",
+            "request": "launch",
+            "mainClass": "sumofDigit",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch NtoOne",
+            "request": "launch",
+            "mainClass": "NtoOne",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberExampleRecursion",
+            "request": "launch",
+            "mainClass": "NumberExampleRecursion",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumbersExample",
+            "request": "launch",
+            "mainClass": "NumbersExample",
+            "projectName": "Recurssion_49738518"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintsHelloWorld",
+            "request": "launch",
+            "mainClass": "PrintsHelloWorld",
+            "projectName": "Recurssion_49738518"
+        }
+    ]
+}
